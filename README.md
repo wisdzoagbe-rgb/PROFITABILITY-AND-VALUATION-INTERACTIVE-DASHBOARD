@@ -267,6 +267,8 @@ This workbook is intended for financial analysis, peer comparison, management pr
 
 The results are analytical outputs based on the data and methodology contained in the workbook. They should not be interpreted as standalone investment advice or as a definitive measure of the intrinsic value of any company.
 
+---
+
 Interested in financial analysis, valuation, financial modelling, or building practical Excel and Power BI solutions?
 Let's connect for more projects in financial analysis.
 Contact: wisdzoagbe@gmail.com
